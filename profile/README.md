@@ -24,17 +24,36 @@ We turn them into open research, code, and datasets.
 
 ## See it run
 
+### FARM
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://goldengait.github.io/farm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/farm.webp" width="100%" alt="FARM building an object memory of a 4,000 square-metre warehouse"></a>
-      <br><b>FARM</b> &middot; a persistent object memory of a 4,000&nbsp;m&sup2; warehouse
+      <a href="https://goldengait.github.io/farm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/farm_scale.webp" width="100%" alt="FARM growing one object memory from a 74 square-metre room to a 15,000 square-metre construction site"></a>
+      <br>One memory, from a 74&nbsp;m&sup2; room to a 15,000&nbsp;m&sup2; construction site
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://goldengait.github.io/farm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/farm_retrieval.webp" width="100%" alt="FARM on a real robot finding the cardboard package under a white table"></a>
+      <br><i>&ldquo;Find the cardboard package under a white table.&rdquo;</i> &middot; real robot, 10&times;
+    </td>
+  </tr>
+</table>
+
+### Scene-LM
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm_campus.webp" width="100%" alt="Spot walking a path across the Stanford campus lawn, seen from a drone"></a>
+      <br>Spot on the Stanford campus, filmed from a drone
     </td>
     <td width="50%" valign="top">
       <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm.webp" width="100%" alt="Scene-LM mapping a room in 3D, object by object"></a>
-      <br><b>Scene-LM</b> &middot; one vision-language model builds the scene map
+      <br>One vision-language model builds the scene map
     </td>
   </tr>
+</table>
+
+### On our robot
+<table>
   <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/mission.webp" width="100%" alt="Spot's route around the office floor while finding five targets, and its onboard camera">
@@ -42,7 +61,7 @@ We turn them into open research, code, and datasets.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/office.webp" width="100%" alt="Spot walking into the lab next to a humanoid robot">
-      <br><b>Office navigation</b> &middot; real robot, filmed on a phone
+      <br><b>Office navigation</b> &middot; real robot
     </td>
   </tr>
 </table>
