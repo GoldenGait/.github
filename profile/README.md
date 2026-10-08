@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/hero.webp" width="100%" alt="Cycling clips: Spot on the GoldenGait stack in an office, FARM building a colour-coded object memory of a warehouse, Scene-LM running on Spot outdoors and mapping a lab in 3D, and Spot's five-target route drawn on the floor map">
+  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/hero.jpg" width="100%" alt="Spot running the GoldenGait stack in an office, beside FARM's colour-coded object memory of a warehouse and Scene-LM's live 3D map of a lab">
 </p>
 
 <h3 align="center">Agentic AI autonomy for legged robots &middot; Stanford &times; Berkeley</h3>
