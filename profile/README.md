@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/hero.webp" width="100%" alt="Cycling clips: Spot on the GoldenGait stack in an office, FARM building a colour-coded object memory of a warehouse, Scene-LM running on Spot across the Stanford campus and mapping a lab in 3D, and Spot's five-target route drawn on the floor map">
+  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/hero.webp" width="100%" alt="Cycling clips: Spot on the GoldenGait stack in an office, FARM building a colour-coded object memory of a warehouse, Scene-LM running on Spot outdoors and mapping a lab in 3D, and Spot's five-target route drawn on the floor map">
 </p>
 
 <h3 align="center">Agentic AI autonomy for legged robots &middot; Stanford &times; Berkeley</h3>
@@ -42,8 +42,8 @@ We turn them into open research, code, and datasets.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm_campus.webp" width="100%" alt="Spot walking a path across the Stanford campus lawn, seen from a drone"></a>
-      <br>Spot on the Stanford campus, filmed from a drone
+      <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm_campus.webp" width="100%" alt="Spot running Scene-LM while walking a path across a lawn"></a>
+      <br>Scene-LM running on Spot, outdoors
     </td>
     <td width="50%" valign="top">
       <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm.webp" width="100%" alt="Scene-LM mapping a room in 3D, object by object"></a>
