@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/goldengait.png" alt="GoldenGait" width="180">
+  <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/hero.webp" width="100%" alt="Spot running the GoldenGait stack: walking an office corridor, its 117 m route drawn on the mapped floor, and arriving in the lab">
 </p>
 
 <h3 align="center">Agentic AI autonomy for legged robots &middot; Stanford &times; Berkeley</h3>
@@ -21,6 +21,31 @@ We turn them into open research, code, and datasets.
 | **GLST** &mdash; Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation &middot; *Accepted, CoRL 2026* | Coming soon | |
 | **GGraph** &mdash; A GPU-Accelerated Library for Graph-Based Robot Deployment and Learning | Coming soon | |
 | **BT-Agent** &mdash; Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation | Coming soon | |
+
+## See it run
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://goldengait.github.io/farm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/farm.webp" width="100%" alt="FARM building an object memory of a 4,000 square-metre warehouse"></a>
+      <br><b>FARM</b> &middot; a persistent object memory of a 4,000&nbsp;m&sup2; warehouse
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://goldengait.github.io/scenelm/"><img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/scenelm.webp" width="100%" alt="Scene-LM mapping a room in 3D, object by object"></a>
+      <br><b>Scene-LM</b> &middot; one vision-language model builds the scene map
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/mission.webp" width="100%" alt="Spot's route around the office floor while finding five targets, and its onboard camera">
+      <br><b>Five targets, one run</b> &middot; real robot, onboard Jetson Thor
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/GoldenGait/.github/main/profile/media/office.webp" width="100%" alt="Spot walking into the lab next to a humanoid robot">
+      <br><b>Office navigation</b> &middot; real robot, filmed on a phone
+    </td>
+  </tr>
+</table>
 
 ## Dependencies we maintain
 
