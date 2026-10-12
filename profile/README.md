@@ -20,7 +20,7 @@ We turn them into open research, code, and datasets.
 | **Scene-LM** &mdash; A Scene Language Model for Open-Vocabulary Scene Mapping | Coming soon | [Paper](https://arxiv.org/abs/2609.21400) &middot; [Project page](https://goldengait.github.io/scenelm/) |
 | **GLST** &mdash; Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation &middot; *Accepted, CoRL 2026* | Coming soon | |
 | **GGraph** &mdash; A GPU-Accelerated Library for Graph-Based Robot Deployment and Learning | Coming soon | |
-| **BT-Agent** &mdash; Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation | Coming soon | |
+| **BT-Agent** &mdash; Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation | [bt-agent](https://github.com/fabiohuebel/bt-agent) | [Paper](https://arxiv.org/abs/2610.13862) |
 
 ## See it run
 
