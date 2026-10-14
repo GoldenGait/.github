@@ -18,7 +18,7 @@ We turn them into open research, code, and datasets.
 |---|---|---|
 | **FARM** &mdash; Find Anything using Relational Spatial Memory | [FARM-Project](https://github.com/GoldenGait/FARM-Project) | [Paper](https://arxiv.org/abs/2606.15476) &middot; [Project page](https://goldengait.github.io/farm/) &middot; [Dataset](https://huggingface.co/datasets/GoldenGait/FARM-Scenes) |
 | **Scene-LM** &mdash; A Scene Language Model for Open-Vocabulary Scene Mapping | Coming soon | [Paper](https://arxiv.org/abs/2609.21400) &middot; [Project page](https://goldengait.github.io/scenelm/) |
-| **GLST** &mdash; Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation &middot; *Accepted, CoRL 2026* | Coming soon | |
+| **GLST** &mdash; Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation &middot; *Accepted, CoRL 2026* | Coming soon | [Paper](https://arxiv.org/abs/2610.17927) |
 | **GGraph** &mdash; A GPU-Accelerated Library for Graph-Based Robot Deployment and Learning | Coming soon | |
 | **BT-Agent** &mdash; Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation | [bt-agent](https://github.com/fabiohuebel/bt-agent) | [Paper](https://arxiv.org/abs/2610.13862) &middot; [Project page](https://goldengait.github.io/bt-agent/) |
 
